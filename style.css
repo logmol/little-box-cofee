@@ -1,0 +1,84 @@
+@font-face{
+	src:url(font2.otf);
+	font-family: tip5;
+}
+@font-face{
+	src:url(h2.ttf);
+	font-family: tip6;
+}
+@font-face{
+	src:url(h3.otf);
+	font-family: tip7;
+}
+
+.header{
+	
+	height: 150px;
+}
+.banner{
+	background-image: url(hhhhh3.jpg);
+	height: 700px;
+	background-size: 100% 100%;
+
+}
+.info{
+	height: 400px;
+	width: 600px;
+	margin-left: 1px;
+	margin-right: 1px;
+}
+
+}
+.footer{
+	height: 300px;
+	background: grey;
+}
+.flex{
+	display: flex;
+}
+.m-l-0{
+	margin-left: 0;
+}
+.block{
+	height: 400px;
+	width: 400px;
+	margin-left: 10px
+}
+.info_img{
+	height: 300px;
+	width: 400px;
+	transition: 0.5s;
+}
+.info_img:hover{
+	transform: scale(1.2);
+}
+h2:hover{
+	color: green;
+}
+h1{
+	font-family: tip5;
+	font-size: 60px;
+}
+.m-l-900{
+	margin-left: 900px
+}
+.h1{
+	text-align: center;
+	padding-top: 250px;
+}
+.h2{
+	text-align: center;
+	font-family: tip6;
+}
+.h3{
+	font-family: tip7;
+}
+.text{
+	padding-top: 200px
+}
+.block2{
+	height: 250px;
+	width: 250px;
+	background: red;
+
+}
